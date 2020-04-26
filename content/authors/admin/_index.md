@@ -18,7 +18,7 @@ organizations:
   url: "https://ssp.mit.edu/about/mission"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zachary Burdette is a PhD student working on international security and quantitative methods at MIT.
+bio: Zachary Burdette is a PhD student in international security and quantitative methods at MIT.
 
 interests:
 - International Security
@@ -70,4 +70,4 @@ social:
 #- Visitors
 ---
 
-Zachary Burdette is a PhD student working on international security and quantitative methods at MIT. Zachary graduated summa cum laude with a BS in Foreign Service and an MA in Security Studies from Georgetown University’s Edmund A. Walsh School of Foreign Service, where he was the recipient of the Edmund A. Walsh Medal for academic achievement.
+Zachary Burdette is a PhD student in international security and quantitative methods at MIT. He graduated summa cum laude with a BS in Foreign Service and an MA in Security Studies from Georgetown University’s Edmund A. Walsh School of Foreign Service, where he was the recipient of the Edmund A. Walsh Medal for academic achievement.
