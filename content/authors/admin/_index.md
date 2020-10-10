@@ -23,6 +23,7 @@ bio: Zachary Burdette is a PhD student in international security and quantitativ
 interests:
 - International Security
 - Computational Social Science
+- Great Power Competition
 - Middle East
 
 education:
