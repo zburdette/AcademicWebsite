@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Political Science
+role: PhD Candidate in Political Science
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,13 @@ organizations:
   url: "https://ssp.mit.edu/about/mission"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zachary Burdette is a PhD student in international security and quantitative methods at MIT.
+bio: Zachary Burdette is a PhD candidate in international security and quantitative methods at MIT.
 
 interests:
 - International Security
-- Computational Social Science
 - Great Power Competition
 - Middle East
+- Computational Social Science
 
 education:
   courses:
