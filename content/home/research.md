@@ -75,6 +75,6 @@ subtitle = ""
  css_class = ""
 +++
 
-“Command of Space and the Military Balance in East Asia.”
+“paper 1”
 
-“What was Unipolarity?”
+“paper 2”
