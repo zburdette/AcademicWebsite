@@ -22,7 +22,8 @@ bio: Zachary Burdette is a PhD candidate in international security and quantitat
 
 interests:
 - International Security
-- Great Power Competition
+- Grand Strategy
+- Military Operations
 - Middle East
 - Computational Social Science
 
