@@ -24,7 +24,6 @@ interests:
 - International Security
 - Grand Strategy
 - Military Operations
-- Middle East
 - Computational Social Science
 
 education:
