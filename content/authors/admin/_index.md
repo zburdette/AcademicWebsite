@@ -18,7 +18,7 @@ organizations:
   url: "https://ssp.mit.edu/about/mission"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zachary Burdette is a PhD candidate in international security and quantitative methods at MIT.
+bio: Zachary Burdette is a PhD candidate in the Security Studies Program at MIT.
 
 interests:
 - International Security
@@ -32,10 +32,10 @@ education:
     institution: Massachusetts Institute of Technology
     year: Ongoing
   - course: M.A. in Security Studies
-    institution: Georgetown University
+    institution: Georgetown Security Studies Program
     year: 2016-2018
   - course: B.S. in Foreign Service
-    institution: Georgetown University
+    institution: Georgetown School of Foreign Service
     year: 2013-2017
 
 # Social/Academic Networking
@@ -71,4 +71,4 @@ social:
 #- Visitors
 ---
 
-Zachary Burdette is a PhD student in international security and quantitative methods at MIT. He graduated summa cum laude with a BS in Foreign Service and an MA in Security Studies from Georgetown University’s Edmund A. Walsh School of Foreign Service, where he was the recipient of the Edmund A. Walsh Medal for academic achievement.
+Zachary Burdette is a PhD candidate in the Security Studies Program at MIT. His research focuses on great power politics and U.S. foreign policy. Zach is an adjunct staff member at the RAND Corporation, where he works with the Center for Analysis of U.S. Grand Strategy. Prior to MIT, he graduated _summa cum laude_ from Georgetown University with an MA in Security Studies and a BS in Foreign Service.
