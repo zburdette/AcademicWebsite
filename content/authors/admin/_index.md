@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Political Science
+  - course: PhD in Political Science
     institution: Massachusetts Institute of Technology
     year: Ongoing
-  - course: M.A. in Security Studies
+  - course: MA in Security Studies
     institution: Georgetown Security Studies Program
     year: 2016-2018
-  - course: B.S. in Foreign Service
+  - course: BS in Foreign Service
     institution: Georgetown School of Foreign Service
     year: 2013-2017
 
