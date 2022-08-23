@@ -24,7 +24,6 @@ interests:
 - International Security
 - Grand Strategy
 - Military Operations
-- Computational Social Science
 
 education:
   courses:
@@ -71,4 +70,4 @@ social:
 #- Visitors
 ---
 
-Zachary Burdette is a PhD candidate in the Security Studies Program at MIT. His research focuses on great power politics and U.S. foreign policy. Zach is an adjunct staff member at the RAND Corporation, where he works with the Center for Analysis of U.S. Grand Strategy. Prior to MIT, he graduated _summa cum laude_ from Georgetown University with an MA in Security Studies and a BS in Foreign Service.
+Zachary Burdette is a PhD candidate in the Security Studies Program at MIT. His research focuses on great power politics, the military balance in the Western Pacific, and how states integrate economic and informational tools into security competitions. Zach is also an adjunct researcher at the RAND Corporation. Prior to MIT, he graduated _summa cum laude_ from Georgetown University with an MA in Security Studies and a BS in Foreign Service.
